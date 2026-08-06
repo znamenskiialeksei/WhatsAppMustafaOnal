@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-mustafa-onal-platform",
+  "version": "40.0.0",
+  "description": "WhatsAppMustafaOnal Platform - Robust Media Uploader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "dotenv": "^16.4.5",
+    "googleapis": "^140.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
